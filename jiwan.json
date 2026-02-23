@@ -11,7 +11,7 @@
         },
         {
             "app": "weather",
-            "seconds": 60
+            "seconds": 30
         },
         {
             "app": "wedding_countdown",
@@ -19,7 +19,7 @@
         },
         {
             "app": "weather",
-            "seconds": 60
+            "seconds": 30
         },
         {
             "app": "mlb_countdown",
@@ -27,7 +27,7 @@
         },
         {
             "app": "weather",
-            "seconds": 60
+            "seconds": 30
         }
     ]
 }
